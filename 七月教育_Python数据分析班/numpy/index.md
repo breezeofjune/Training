@@ -2,8 +2,7 @@ Python数据分析 - NumPy入门
 ===
 
 林应（微博：[Bear-彼德洛维奇](http://weibo.com/p/1005052607195824/)）
-Github: 
-2016/08/27
+Github: <small>https://github.com/yingl/Training/tree/master/%E4%B8%83%E6%9C%88%E6%95%99%E8%82%B2_Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%8F%AD/numpy</small>
 
 ---
 # 简介
